@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&family=MuseoModerno:wght@600&family=VT323&display=swap');
+body{
+    background-color: #db8442;
+    font-family: 'Monoton';
+    font-size: 30px;
+}
+
+nav{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #D6742B;
+    overflow: auto;
+
+}
+
+nav li{
+    float: left;
+
+}
+
+nav li a{
+    display:block;
+    text-decoration: none;
+    color:white;
+    padding: 15px 20px;
+}
+
+nav li a:hover 
+{
+    background-color: #80B0A4;
+    color: white;
+
+}
+
+#About {
+    color: white;
+    font-size:35px;
+}
+
+#Works {
+    color: white;
+    font-size:35px;
+}
+
+#Contact {
+    color: white;
+    font-size:35px;
+}
+
+#Resume {
+    color: white;
+    font-size:35px;
+}
